@@ -33,22 +33,9 @@ Loading State
 
  Page Loading State: Keep users informed and engaged with loading indicators during page transitions.
 
-
 Backend Development
 
- Route Handlers: Learn how to write POST, DELETE, and GET routes in route handlers within the app/api directory.
-
-Direct Database Access
-
- Server Data Fetching: Gain insights into fetching data directly from the database in server-side React components without using an API.
-
-Component Interaction
-
- Parent-Child Component Relations: Understand how to establish and manage relations between server and child components effectively.
-
-Reusability
-
- Layout Reusability: Learn techniques to create reusable layouts that enhance consistency across the application.
+ Route Handlers:POST, DELETE, and GET routes in route handlers within the app/api directory.
 
 Project Structure
 
